@@ -1,6 +1,6 @@
-# Codes for the paper: 
+# Implementing Machine Learning Algorithms to Classify Postures and Forecast Motions When Using a Dynamic Chair
 
-Implementing Machine Learning Algorithms to Classify Postures and Forecast Motions When Using a Dynamic Chair
+
 
 Many modern jobs require long periods of sitting on a chair that may result in serious
 health complications. Dynamic chairs are proposed as alternatives to the traditional sitting chairs;
