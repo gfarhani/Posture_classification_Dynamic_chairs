@@ -18,7 +18,8 @@ accuracy (97%). The ability of the algorithm to forecast future postures could b
 alternative postures as needed.
 
 
-Citation: Farhani, G.; Zhou, Y.;
+# Citation 
+Farhani, G.; Zhou, Y.;
 Danielson, P.; Trejos, A.L.
 Implementing Machine Learning
 Algorithms to Classify Postures and
