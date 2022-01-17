@@ -25,4 +25,4 @@ Implementing Machine Learning
 Algorithms to Classify Postures and
 Forecast Motions When Using a
 Dynamic Chair. Sensors 2022, 1, 0.
-https://doi.org/
+https://doi.org/10.3390/s22010400
